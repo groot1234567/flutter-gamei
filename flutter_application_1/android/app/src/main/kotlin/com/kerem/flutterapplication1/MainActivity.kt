@@ -1,0 +1,6 @@
+package com.kerem.flutterapplication1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
