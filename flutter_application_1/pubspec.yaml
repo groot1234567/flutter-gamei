@@ -3,7 +3,7 @@ description: "A new Flutter project."
 publish_to: "none"
 
 # Versiyonu 1.0.1+5 yaptık çünkü Apple aynı versiyonu tekrar kabul etmez.
-version: 1.0.1+7
+version: 1.0.1+25
 
 environment:
   sdk: ^3.11.4
