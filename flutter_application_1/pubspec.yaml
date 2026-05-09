@@ -2,8 +2,8 @@ name: flutter_application_1
 description: "A new Flutter project."
 publish_to: "none"
 
-# Versiyonu 1.0.1+2 yaptık çünkü Apple aynı versiyonu tekrar kabul etmez.
-version: 1.0.1+4
+# Versiyonu 1.0.1+5 yaptık çünkü Apple aynı versiyonu tekrar kabul etmez.
+version: 1.0.1+5
 
 environment:
   sdk: ^3.11.4
